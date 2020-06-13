@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "349943460227",
+    "firebase_url": "https://leaderboardgame-53451.firebaseio.com",
+    "project_id": "leaderboardgame-53451",
+    "storage_bucket": "leaderboardgame-53451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349943460227:android:02c2b8d09dd341dcaac6b6",
+        "android_client_info": {
+          "package_name": "com.example.leaderboardapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349943460227-58g1kbsh6dbqqb7500tcdrr8vk76tpqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfSyJ35tWlaq5zvc6o_il4oET_BJCpZ98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349943460227-58g1kbsh6dbqqb7500tcdrr8vk76tpqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
