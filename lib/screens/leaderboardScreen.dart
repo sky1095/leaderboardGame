@@ -33,7 +33,7 @@ class _LeaderBoardScreenState extends State<LeaderBoardScreen> {
 
                   return ListTile(
 
-                    leading: Text("${index+1}"),
+                    leading: CircleAvatar(child: Text("${index+1}")),
                     title: Text(score.username),
                     trailing: Text(score.score.toString()),
                     subtitle:
